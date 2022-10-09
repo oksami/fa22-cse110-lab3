@@ -1,1 +1,1 @@
-# Lab 2 - Starter
+https://oksami.github.io/cse110_lab2/
