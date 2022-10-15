@@ -98,3 +98,8 @@
   * {
     font-family: "marvel";
   }
+
+
+  a[href="https://www.starkindustriescorporation.com/"]{
+    background-color:silver;
+  }
