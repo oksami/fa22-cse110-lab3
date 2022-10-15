@@ -7,6 +7,7 @@
     font-size: 3em;
     margin: 25px 50px 25px 25px;
     text-align: center;
+    display:inline-block;
 
   }
 
@@ -14,6 +15,7 @@
     color: rgb(76, 75, 75);
     font-size: 3ex;
     margin-top: 25px;
+    display: inline;
   }
 
   h3{
@@ -49,4 +51,5 @@
 
   li{
     font-size:1pc;
+    
   }
