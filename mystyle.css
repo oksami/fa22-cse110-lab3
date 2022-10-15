@@ -3,18 +3,7 @@
     font-family: "marvel";
     src: url("marvel.ttf");
   }
-    body{
-    background-color: #f3ebd8;
-  }
-  h1{
-    color: #E1AC35;
-    font-size: 3em;
-    margin: 25px 50px 25px 25px;
-    text-align: center;
-    display:inline-block;
-    font-family: "marvel";
-
-  }
+    
 
   h2:hover{
     color: rgb(76, 75, 75);
