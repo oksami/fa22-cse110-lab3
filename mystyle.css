@@ -4,16 +4,31 @@
   }
   h1 {
     color: #E1AC35;
+    font-size: 3em;
   }
 
   h2{
     color: rgb(76, 75, 75);
+    font-size: 3ex;
   }
 
   h3{
     color: rgb(252, 200, 88);
+    font-size: 1rem;
   }
 
   p{
     color: black;
+  }
+
+  div{
+    font-size: 0.5cm;
+  }
+
+  span{
+    font-size: 17Q;
+  }
+
+  li{
+    font-size:1pc;
   }
