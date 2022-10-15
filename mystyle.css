@@ -61,10 +61,10 @@
   }
 
   button{
-    height:10px;
-    width:11px;
-    max-width:10px;
-    min-width: 10px;
+    height:20px;
+    width:50px;
+    max-width:50px;
+    min-width: 50px;
   }
 
   .flex-container {
@@ -103,3 +103,7 @@
   a[href="https://www.starkindustriescorporation.com/"]{
     background-color:silver;
   }
+
+ button:hover {
+    background-color:red;
+ }
