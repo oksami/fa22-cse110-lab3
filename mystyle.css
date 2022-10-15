@@ -1,5 +1,9 @@
 /* CSS stylesheet for Avengers Beekeeping Society */
-  body{
+@font-face {
+    font-family: "marvel";
+    src: url("marvel.ttf");
+  }
+    body{
     background-color: #f3ebd8;
   }
   h1{
@@ -8,6 +12,7 @@
     margin: 25px 50px 25px 25px;
     text-align: center;
     display:inline-block;
+    font-family: "marvel";
 
   }
 
