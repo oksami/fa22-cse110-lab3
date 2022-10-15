@@ -51,5 +51,11 @@
 
   li{
     font-size:1pc;
-    
+  }
+
+  button{
+    height:10px;
+    width:10px;
+    max-width:10px;
+    min-width: 10px;
   }
