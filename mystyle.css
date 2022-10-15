@@ -1,5 +1,7 @@
 /* CSS stylesheet for Avengers Beekeeping Society */
-  
+  body{
+    background-color: #f3ebd8;
+  }
   h1 {
     color: #E1AC35;
   }
