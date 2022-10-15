@@ -6,6 +6,7 @@
     color: #E1AC35;
     font-size: 3em;
     margin: 25px 50px 25px 25px;
+    text-align: center;
 
   }
 
@@ -24,6 +25,10 @@
     border-radius: 3px;
   }
 
+  body{
+    color: black;
+  }
+
   p{
     color: black;
     margin:auto;
@@ -38,6 +43,8 @@
 
   span{
     font-size: 17Q;
+    text-decoration: underline;
+    
   }
 
   li{
