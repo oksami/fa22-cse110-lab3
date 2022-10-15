@@ -2,7 +2,7 @@
   body{
     background-color: #f3ebd8;
   }
-  h1 {
+  h1{
     color: #E1AC35;
     font-size: 3em;
     margin: 25px 50px 25px 25px;
@@ -11,7 +11,7 @@
 
   }
 
-  h2{
+  h2:hover{
     color: rgb(76, 75, 75);
     font-size: 3ex;
     margin-top: 25px;
@@ -50,7 +50,7 @@
     
   }
 
-  li{
+  li:active{
     font-size:1pc;
     position: static;
   }
