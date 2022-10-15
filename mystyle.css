@@ -107,3 +107,7 @@
  button:hover {
     background-color:red;
  }
+
+h2, h3 {
+    font-family:times;
+ }
