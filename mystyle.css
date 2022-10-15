@@ -5,24 +5,35 @@
   h1 {
     color: #E1AC35;
     font-size: 3em;
+    margin: 25px 50px 25px 25px;
+
   }
 
   h2{
     color: rgb(76, 75, 75);
     font-size: 3ex;
+    margin-top: 25px;
   }
 
   h3{
     color: rgb(252, 200, 88);
     font-size: 1rem;
+    border-style:dashed;
+    border-color: chocolate;
+    border-width:2px;
+    border-radius: 3px;
   }
 
   p{
     color: black;
+    margin:auto;
+    padding-bottom:5px;
   }
+
 
   div{
     font-size: 0.5cm;
+    padding: 25px 50px 25px 25px;
   }
 
   span{
