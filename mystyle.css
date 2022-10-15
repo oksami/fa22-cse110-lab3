@@ -111,3 +111,23 @@
 h2, h3 {
     font-family:times;
  }
+
+ul li{
+    font-size: 1em;
+ }
+
+ details > summary{
+    color:#9b6e03;
+ }
+
+ h3+ul{
+    color:rgb(108, 108, 209);
+ }
+
+ h3 ~ p{
+    color:rgb(62, 95, 124);
+ }
+
+ button.favoritestyled{
+    font-family:fantasy;
+ }
