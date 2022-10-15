@@ -75,5 +75,11 @@
     justify-content: space-around;
     align-content: start;
   }
+
+  @media screen and (min-width: 1000px) {
+    body {
+      background-color: rgb(207, 145, 78);
+    }
+  }
   
   
