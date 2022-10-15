@@ -87,6 +87,10 @@
     }
   }
   
-  .call{
+  .calltoorder{
     background-color: rgb(213, 232, 214);
+  }
+
+  #attendance{
+    font-family: "marvel";
   }
