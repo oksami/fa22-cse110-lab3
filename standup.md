@@ -1,4 +1,4 @@
-### Standup Meeting Template
+# Standup Meeting Template
 
 ## Name
 
