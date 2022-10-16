@@ -8,9 +8,9 @@ Accomplished Yesterday:
 * ex
 
 To Work on Today:
-* ex
-* ex
-* ex
+- [ ] ex
+- [ ] ex
+- [ ] ex
 
 Obstacles/Contraints
 1. ex
@@ -18,6 +18,6 @@ Obstacles/Contraints
 3. ex
 
 Tomorrow's tasks:
-- [ ]  
-- [ ]  
-- [ ]  
+- [ ] ex
+- [ ] ex
+- [ ] ex
