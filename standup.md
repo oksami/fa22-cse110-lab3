@@ -1,26 +1,26 @@
-#Standup Meeting Template
+### Standup Meeting Template
 
-##Name
+## Name
 
 Accomplished Yesterday:
-1.
-2.
-3.
+* 
+* 
+* 
 
 To Work on Today:
-- [ ] 
-- [ ] 
-- [ ] 
+* 
+* 
+* 
 
 Obstacles/Contraints
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 Tomorrow's tasks:
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]  
+- [ ]  
+- [ ]  
 
 
 ##Name
