@@ -2,7 +2,7 @@
 
 ##Name
 
-Accomplished yesterday:
+Accomplished Yesterday:
 1.
 2.
 3.
