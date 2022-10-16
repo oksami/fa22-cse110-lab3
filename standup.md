@@ -1,5 +1,7 @@
 #Standup Meeting Template
+
 ##Name
+
 Accomplished yesterday:
 1.
 2.
